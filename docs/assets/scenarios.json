@@ -22,7 +22,7 @@
         {
             "data": {
                 "id": "2",
-                "name": "#2 Barrow Lair",
+                "name": "#2 Mohylové doupě",
                 "pages": [4, 5],
                 "status": "hidden",
                 "notes": "",
@@ -41,7 +41,7 @@
         {
             "data": {
                 "id": "3",
-                "name": "#3 Inox Encampment",
+                "name": "#3 Tábor inoxů",
                 "pages": [5, 6],
                 "status": "hidden",
                 "notes": "",
@@ -60,7 +60,7 @@
         {
             "data": {
                 "id": "4",
-                "name": "#4 Crypt of the Damned",
+                "name": "#4 Krypta zatracených",
                 "pages": [7],
                 "status": "hidden",
                 "notes": "",
@@ -83,7 +83,7 @@
         {
             "data": {
                 "id": "5",
-                "name": "#5 Ruinous Crypt",
+                "name": "#5 Zřícená krypta",
                 "pages": [8],
                 "status": "hidden",
                 "notes": "",
@@ -106,7 +106,7 @@
         {
             "data": {
                 "id": "6",
-                "name": "#6 Decaying Crypt",
+                "name": "#6 Zapáchající krypta",
                 "pages": [9, 10],
                 "status": "hidden",
                 "notes": "",
@@ -125,7 +125,7 @@
         {
             "data": {
                 "id": "7",
-                "name": "#7 Vibrant Grotto",
+                "name": "#7 Živoucí sluj",
                 "pages": [10, 11],
                 "status": "hidden",
                 "notes": "",
@@ -139,7 +139,7 @@
         {
             "data": {
                 "id": "8",
-                "name": "#8 Gloomhaven Warehouse",
+                "name": "#8 Gloomhavenské skladiště",
                 "pages": [12],
                 "status": "hidden",
                 "notes": "",
@@ -158,7 +158,7 @@
         {
             "data": {
                 "id": "9",
-                "name": "#9 Diamond Mine",
+                "name": "#9 Diamantový důl",
                 "pages": [13],
                 "status": "hidden",
                 "notes": "",
@@ -173,7 +173,7 @@
         {
             "data": {
                 "id": "11",
-                "name": "#11 Gloomhaven Square A",
+                "name": "#11 Gloomhavenské náměstí A",
                 "pages": [15, 16],
                 "status": "hidden",
                 "notes": "",
@@ -192,7 +192,7 @@
         {
             "data": {
                 "id": "12",
-                "name": "#12 Gloomhaven Square B",
+                "name": "#12 Gloomhavenské náměstí B",
                 "pages": [16, 17],
                 "status": "hidden",
                 "notes": "",
@@ -212,7 +212,7 @@
         {
             "data": {
                 "id": "10",
-                "name": "#10 Plane of Elemental Power",
+                "name": "#10 Sféra moci živlů",
                 "pages": [14],
                 "status": "hidden",
                 "notes": "",
@@ -231,7 +231,7 @@
         {
             "data": {
                 "id": "13",
-                "name": "#13 Temple of the Seer",
+                "name": "#13 Prorokův chrám",
                 "pages": [18],
                 "status": "hidden",
                 "notes": "",
@@ -250,7 +250,7 @@
         {
             "data": {
                 "id": "14",
-                "name": "#14 Frozen Hollow",
+                "name": "#14 Mrazivá prázdnota",
                 "pages": [19, 20],
                 "status": "hidden",
                 "notes": "",
@@ -269,7 +269,7 @@
         {
             "data": {
                 "id": "19",
-                "name": "#19 Forgotten Crypt",
+                "name": "#19 Zapomenutá krypta",
                 "pages": [25, 26],
                 "status": "hidden",
                 "notes": "",
@@ -288,7 +288,7 @@
         {
             "data": {
                 "id": "27",
-                "name": "#27 Ruinous Rift",
+                "name": "#27 Trhlina",
                 "pages": [37],
                 "status": "hidden",
                 "notes": "",
@@ -302,7 +302,7 @@
         {
             "data": {
                 "id": "21",
-                "name": "#21 Infernal Throne",
+                "name": "#21 Pekelný trůn",
                 "pages": [28, 29],
                 "status": "hidden",
                 "notes": "",
@@ -321,7 +321,7 @@
         {
             "data": {
                 "id": "22",
-                "name": "#22 Temple of Elements",
+                "name": "#22 Chrám živlů",
                 "pages": [29, 30],
                 "status": "hidden",
                 "notes": "",
@@ -340,7 +340,7 @@
         {
             "data": {
                 "id": "20",
-                "name": "#20 Necromancer's Sanctum",
+                "name": "#20 Nekromantčina svatyně",
                 "pages": [26, 27],
                 "status": "hidden",
                 "notes": "",
@@ -359,7 +359,7 @@
         {
             "data": {
                 "id": "28",
-                "name": "#28 Outer Ritual Chamber",
+                "name": "#28 Vnější rituální komnata",
                 "pages": [38],
                 "status": "hidden",
                 "notes": "",
@@ -379,7 +379,7 @@
         {
             "data": {
                 "id": "29",
-                "name": "#29 Sanctuary of Gloom",
+                "name": "#29 Útočiště Chmuru",
                 "pages": [39],
                 "status": "hidden",
                 "notes": "",
@@ -398,7 +398,7 @@
         {
             "data": {
                 "id": "15",
-                "name": "#15 Shrine of Strength",
+                "name": "#15 Svatyně síly",
                 "pages": [20, 21],
                 "status": "hidden",
                 "notes": "",
@@ -412,7 +412,7 @@
         {
             "data": {
                 "id": "17",
-                "name": "#17 Lost Island",
+                "name": "#17 Ztracený ostrov",
                 "pages": [23],
                 "status": "hidden",
                 "notes": "",
@@ -432,7 +432,7 @@
         {
             "data": {
                 "id": "18",
-                "name": "#18 Abandoned Sewers",
+                "name": "#18 Opuštěné stoky",
                 "pages": [24],
                 "status": "hidden",
                 "notes": "",
@@ -451,7 +451,7 @@
         {
             "data": {
                 "id": "16",
-                "name": "#16 Mountain Pass",
+                "name": "#16 Horský průsmyk",
                 "pages": [22],
                 "status": "hidden",
                 "notes": "",
@@ -470,7 +470,7 @@
         {
             "data": {
                 "id": "24",
-                "name": "#24 Echo Chamber",
+                "name": "#24 Komnata ozvěn",
                 "pages": [32, 33],
                 "status": "hidden",
                 "notes": "",
@@ -489,7 +489,7 @@
         {
             "data": {
                 "id": "25",
-                "name": "#25 Icecrag Ascent",
+                "name": "#25 Výstup na Ledovou stěnu",
                 "pages": [34, 35],
                 "status": "hidden",
                 "notes": "",
@@ -508,7 +508,7 @@
         {
             "data": {
                 "id": "30",
-                "name": "#30 Shrine of the Depths",
+                "name": "#30 Svatyně hlubin",
                 "pages": [40, 41],
                 "status": "hidden",
                 "notes": "",
@@ -522,7 +522,7 @@
         {
             "data": {
                 "id": "42",
-                "name": "#42 Realm of the Voice",
+                "name": "#42 Říše hlasu",
                 "pages": [56],
                 "status": "hidden",
                 "notes": "",
@@ -545,7 +545,7 @@
         {
             "data": {
                 "id": "32",
-                "name": "#32 Decrepit Wood",
+                "name": "#32 Práchnivějící les",
                 "pages": [43],
                 "status": "hidden",
                 "notes": "",
@@ -559,7 +559,7 @@
         {
             "data": {
                 "id": "23",
-                "name": "#23 Deep Ruins",
+                "name": "#23 Trosky v hlubinách",
                 "pages": [31, 32],
                 "status": "hidden",
                 "notes": "",
@@ -582,7 +582,7 @@
         {
             "data": {
                 "id": "43",
-                "name": "#43 Drake Nest",
+                "name": "#43 Dračí hnízdo",
                 "pages": [57, 58],
                 "status": "hidden",
                 "notes": "",
@@ -601,7 +601,7 @@
         {
             "data": {
                 "id": "26",
-                "name": "#26 Ancient Cistern",
+                "name": "#26 Prastará nádrž",
                 "pages": [35, 36],
                 "status": "hidden",
                 "notes": "",
@@ -620,7 +620,7 @@
         {
             "data": {
                 "id": "33",
-                "name": "#33 Savvas Armory",
+                "name": "#33 Savvasská zbrojnice",
                 "pages": [44],
                 "status": "hidden",
                 "notes": "",
@@ -634,7 +634,7 @@
         {
             "data": {
                 "id": "34",
-                "name": "#34 Scorched Summit",
+                "name": "#34 Sežehlý vrch",
                 "pages": [45],
                 "status": "hidden",
                 "notes": "",
@@ -653,7 +653,7 @@
         {
             "data": {
                 "id": "40",
-                "name": "#40 Ancient Defense Network",
+                "name": "#40 Prastaré obranné systémy",
                 "pages": [53, 54],
                 "status": "hidden",
                 "notes": "",
@@ -672,7 +672,7 @@
         {
             "data": {
                 "id": "41",
-                "name": "#41 Timeworn Tomb",
+                "name": "#41 Věkovitá hrobka",
                 "pages": [54, 55],
                 "status": "hidden",
                 "notes": "",
@@ -691,7 +691,7 @@
         {
             "data": {
                 "id": "31",
-                "name": "#31 Plane of Night",
+                "name": "#31 Sféra noci",
                 "pages": [41, 42],
                 "status": "hidden",
                 "notes": "",
@@ -710,7 +710,7 @@
         {
             "data": {
                 "id": "39",
-                "name": "#39 Treacherous Divide",
+                "name": "#39 Zrádná propast",
                 "pages": [51, 52],
                 "status": "hidden",
                 "notes": "",
@@ -729,7 +729,7 @@
         {
             "data": {
                 "id": "37",
-                "name": "#37 Doom Trench",
+                "name": "#37 Příkop zkázy",
                 "pages": [49],
                 "status": "hidden",
                 "notes": "",
@@ -748,7 +748,7 @@
         {
             "data": {
                 "id": "38",
-                "name": "#38 Slave Pens",
+                "name": "#38 Otrokářské ohrady",
                 "pages": [50, 51],
                 "status": "hidden",
                 "notes": "",
@@ -767,7 +767,7 @@
         {
             "data": {
                 "id": "46",
-                "name": "#46 Nightmare Peak",
+                "name": "#46 Vrch hrůzy",
                 "pages": [61],
                 "status": "hidden",
                 "notes": "",
@@ -786,7 +786,7 @@
         {
             "data": {
                 "id": "47",
-                "name": "#47 Lair of the Unseeing Eye",
+                "name": "#47 Doupě Nevidoucího oka",
                 "pages": [62],
                 "status": "hidden",
                 "notes": "",
@@ -809,7 +809,7 @@
         {
             "data": {
                 "id": "48",
-                "name": "#48 Shadow Weald",
+                "name": "#48 Teskná mýtina",
                 "pages": [63],
                 "status": "hidden",
                 "notes": "",
@@ -828,7 +828,7 @@
         {
             "data": {
                 "id": "44",
-                "name": "#44 Tribal Assault",
+                "name": "#44 Kmen útočí",
                 "pages": [58, 59],
                 "status": "hidden",
                 "notes": "",
@@ -842,7 +842,7 @@
         {
             "data": {
                 "id": "51",
-                "name": "#51 The Void",
+                "name": "#51 Prázdnota",
                 "pages": [66, 67],
                 "status": "hidden",
                 "notes": "",
@@ -861,7 +861,7 @@
         {
             "data": {
                 "id": "35",
-                "name": "#35 Gloomhaven Battlements A",
+                "name": "#35 Cimbuří Gloomhavenu A",
                 "pages": [46, 47],
                 "status": "hidden",
                 "notes": "",
@@ -880,7 +880,7 @@
         {
             "data": {
                 "id": "36",
-                "name": "#36 Gloomhaven Battlements B",
+                "name": "#36 Cimbuří Gloomhavenu B",
                 "pages": [47, 48],
                 "status": "hidden",
                 "notes": "",
@@ -899,7 +899,7 @@
         {
             "data": {
                 "id": "45",
-                "name": "#45 Rebel Swamp",
+                "name": "#45 Bažina povstalců",
                 "pages": [60],
                 "status": "hidden",
                 "notes": "",
@@ -918,7 +918,7 @@
         {
             "data": {
                 "id": "49",
-                "name": "#49 Rebel's Stand",
+                "name": "#49 Tábor povstalců",
                 "pages": [64],
                 "status": "hidden",
                 "notes": "",
@@ -937,7 +937,7 @@
         {
             "data": {
                 "id": "50",
-                "name": "#50 Ghost Forrest",
+                "name": "#50 Pevnost duchů",
                 "pages": [65, 66],
                 "status": "hidden",
                 "notes": "",
@@ -951,7 +951,7 @@
         {
             "data": {
                 "id": "52",
-                "name": "#52 Noxious Cellar",
+                "name": "#52 Zatuchlé sklepení",
                 "pages": [68, 69],
                 "status": "locked",
                 "notes": "",
@@ -965,7 +965,7 @@
         {
             "data": {
                 "id": "53",
-                "name": "#53 Crypt Basement",
+                "name": "#53 Základy krypty",
                 "pages": [69, 70],
                 "status": "locked",
                 "notes": "",
@@ -984,7 +984,7 @@
         {
             "data": {
                 "id": "54",
-                "name": "#54 Palace of Ice",
+                "name": "#54 Ledový palác",
                 "pages": [71],
                 "status": "locked",
                 "notes": "",
@@ -1003,7 +1003,7 @@
         {
             "data": {
                 "id": "55",
-                "name": "#55 Foggy Thicket",
+                "name": "#55 Mlžné houštiny",
                 "pages": [72],
                 "status": "locked",
                 "notes": "",
@@ -1017,7 +1017,7 @@
         {
             "data": {
                 "id": "56",
-                "name": "#56 Bandit's Wood",
+                "name": "#56 Hvozd zbojníků",
                 "pages": [73],
                 "status": "locked",
                 "notes": "",
@@ -1036,7 +1036,7 @@
         {
             "data": {
                 "id": "57",
-                "name": "#57 Investigation",
+                "name": "#57 Vyšetřování",
                 "pages": [74],
                 "status": "locked",
                 "notes": "",
@@ -1059,7 +1059,7 @@
         {
             "data": {
                 "id": "58",
-                "name": "#58 Bloody Shack",
+                "name": "#58 Krvavá chatrč",
                 "pages": [75],
                 "status": "locked",
                 "notes": "",
@@ -1073,7 +1073,7 @@
         {
             "data": {
                 "id": "59",
-                "name": "#59 Forgotten Grove",
+                "name": "#59 Zapomenutý háj",
                 "pages": [76],
                 "status": "locked",
                 "notes": "",
@@ -1087,7 +1087,7 @@
         {
             "data": {
                 "id": "60",
-                "name": "#60 Alchemy Lab",
+                "name": "#60 Alchymistická laboratoř",
                 "pages": [77],
                 "status": "locked",
                 "notes": "",
@@ -1101,7 +1101,7 @@
         {
             "data": {
                 "id": "61",
-                "name": "#61 Fading Lighthouse",
+                "name": "#61 Mizející maják",
                 "pages": [78, 79],
                 "status": "locked",
                 "notes": "",
@@ -1115,7 +1115,7 @@
         {
             "data": {
                 "id": "62",
-                "name": "#62 Pit of Souls",
+                "name": "#62 Jáma duší",
                 "pages": [80],
                 "status": "locked",
                 "notes": "",
@@ -1135,7 +1135,7 @@
         {
             "data": {
                 "id": "63",
-                "name": "#63 Magma Pit",
+                "name": "#63 Srdce vulkánu",
                 "pages": [81],
                 "status": "locked",
                 "notes": "",
@@ -1154,7 +1154,7 @@
         {
             "data": {
                 "id": "64",
-                "name": "#64 Under Water Lagoon",
+                "name": "#64 Podvodní laguna",
                 "pages": [82],
                 "status": "locked",
                 "notes": "",
@@ -1173,7 +1173,7 @@
         {
             "data": {
                 "id": "65",
-                "name": "#65 Sulfur Mine",
+                "name": "#65 Důl na síru",
                 "pages": [83, 84],
                 "status": "locked",
                 "notes": "",
@@ -1187,7 +1187,7 @@
         {
             "data": {
                 "id": "66",
-                "name": "#66 Clockwork Cove",
+                "name": "#66 Hodinářova zátoka",
                 "pages": [84, 85],
                 "status": "locked",
                 "notes": "",
@@ -1210,7 +1210,7 @@
         {
             "data": {
                 "id": "67",
-                "name": "#67 Arcane Library",
+                "name": "#67 Tajemná knihovna",
                 "pages": [86],
                 "status": "locked",
                 "notes": "",
@@ -1229,7 +1229,7 @@
         {
             "data": {
                 "id": "68",
-                "name": "#68 Toxic Moor",
+                "name": "#68 Otrávená slať",
                 "pages": [87],
                 "status": "locked",
                 "notes": "",
@@ -1248,7 +1248,7 @@
         {
             "data": {
                 "id": "69",
-                "name": "#69 Well of the Unfortunate",
+                "name": "#69 Studna nešťastníků",
                 "pages": [88],
                 "status": "locked",
                 "notes": "",
@@ -1262,7 +1262,7 @@
         {
             "data": {
                 "id": "70",
-                "name": "#70 Chained Isle",
+                "name": "#70 Spoutaný ostrov",
                 "pages": [89, 90],
                 "status": "locked",
                 "notes": "",
@@ -1281,7 +1281,7 @@
         {
             "data": {
                 "id": "71",
-                "name": "#71 Windswept Highlands",
+                "name": "#71 Větrné vrchy",
                 "pages": [90, 91],
                 "status": "locked",
                 "notes": "",
@@ -1297,7 +1297,7 @@
         {
             "data": {
                 "id": "72",
-                "name": "#72 Oozing Grove",
+                "name": "#72 Slizký háj",
                 "pages": [92],
                 "status": "locked",
                 "notes": "",
@@ -1311,7 +1311,7 @@
         {
             "data": {
                 "id": "73",
-                "name": "#73 Rockslide Ridge",
+                "name": "#73 Hřbet kamenných lavin",
                 "pages": [93],
                 "status": "locked",
                 "notes": "",
@@ -1325,7 +1325,7 @@
         {
             "data": {
                 "id": "76",
-                "name": "#76 Harrower Hive",
+                "name": "#76 Trýznitelský úl",
                 "pages": [96, 97],
                 "status": "locked",
                 "notes": "",
@@ -1344,7 +1344,7 @@
         {
             "data": {
                 "id": "77",
-                "name": "#77 Vault of Secrets",
+                "name": "#77 Pokladnice tajemství",
                 "pages": [97, 98],
                 "status": "locked",
                 "notes": "",
@@ -1359,7 +1359,7 @@
         {
             "data": {
                 "id": "74",
-                "name": "#74 Merchant Ship",
+                "name": "#74 Obchodní loď",
                 "pages": [94],
                 "status": "locked",
                 "notes": "",
@@ -1378,7 +1378,7 @@
         {
             "data": {
                 "id": "75",
-                "name": "#75 Overgrown Graveyard",
+                "name": "#75 Zarostlý hřbitov",
                 "pages": [95],
                 "status": "locked",
                 "notes": "",
@@ -1397,7 +1397,7 @@
         {
             "data": {
                 "id": "78",
-                "name": "#78 Sacrifice Pit",
+                "name": "#78 Jáma obětování",
                 "pages": [99],
                 "status": "locked",
                 "notes": "",
@@ -1411,7 +1411,7 @@
         {
             "data": {
                 "id": "79",
-                "name": "#79 Lost Temple",
+                "name": "#79 Ztracený chrám",
                 "pages": [100, 101],
                 "status": "locked",
                 "notes": "",
@@ -1430,7 +1430,7 @@
         {
             "data": {
                 "id": "81",
-                "name": "#81 Temple of the Eclipse",
+                "name": "#81 Chrám zatmění",
                 "pages": [103],
                 "status": "locked",
                 "notes": "",
@@ -1449,7 +1449,7 @@
         {
             "data": {
                 "id": "83",
-                "name": "#83 Shadows Within",
+                "name": "#83 Noc stínů",
                 "pages": [105],
                 "status": "locked",
                 "notes": "",
@@ -1463,7 +1463,7 @@
         {
             "data": {
                 "id": "84",
-                "name": "#84 Crystalline Cave",
+                "name": "#84 Krystalová jeskyně",
                 "pages": [106],
                 "status": "locked",
                 "notes": "",
@@ -1482,7 +1482,7 @@
         {
             "data": {
                 "id": "86",
-                "name": "#86 Harried Village",
+                "name": "#86 Sužovaná vesnice",
                 "pages": [108, 109],
                 "status": "locked",
                 "notes": "",
@@ -1496,7 +1496,7 @@
         {
             "data": {
                 "id": "87",
-                "name": "#87 Corrupted Cove",
+                "name": "#87 Zátoka zkaženosti",
                 "pages": [110],
                 "status": "locked",
                 "notes": "",
@@ -1515,7 +1515,7 @@
         {
             "data": {
                 "id": "88",
-                "name": "#88 Plane of Water",
+                "name": "#88 Sféra vody",
                 "pages": [111],
                 "status": "locked",
                 "notes": "",
@@ -1538,7 +1538,7 @@
         {
             "data": {
                 "id": "89",
-                "name": "#89 Syndicate Hideout",
+                "name": "#89 Úkryt Syndikátu",
                 "pages": [112],
                 "status": "locked",
                 "notes": "",
@@ -1565,7 +1565,7 @@
         {
             "data": {
                 "id": "91",
-                "name": "#91 Wild Melee",
+                "name": "#91 Divoký střet",
                 "pages": [114],
                 "status": "locked",
                 "notes": "",
@@ -1579,7 +1579,7 @@
         {
             "data": {
                 "id": "92",
-                "name": "#92 Back Alley Brawl",
+                "name": "#92 Rvačka v postranní uličce",
                 "pages": [115],
                 "status": "locked",
                 "notes": "",
@@ -1593,7 +1593,7 @@
         {
             "data": {
                 "id": "93",
-                "name": "#93 Sunken Vessel",
+                "name": "#93 Potopená loď",
                 "pages": [116],
                 "status": "locked",
                 "notes": "",
@@ -1612,7 +1612,7 @@
         {
             "data": {
                 "id": "94",
-                "name": "#94 Vermling Nest",
+                "name": "#94 Hnízdo krysáků",
                 "pages": [117],
                 "status": "locked",
                 "notes": "",
@@ -1626,7 +1626,7 @@
         {
             "data": {
                 "id": "95",
-                "name": "#95 Payment Due",
+                "name": "#95 Čas splácet",
                 "pages": [118, 119],
                 "status": "locked",
                 "notes": "",
@@ -1641,7 +1641,7 @@
         {
             "data": {
                 "id": "80",
-                "name": "#80 Vigil Keep",
+                "name": "#80 Bdělá hlídka",
                 "pages": [101, 102],
                 "status": "locked",
                 "notes": "",
@@ -1655,7 +1655,7 @@
         {
             "data": {
                 "id": "82",
-                "name": "#82 Burning Mountain",
+                "name": "#82 Planoucí hora",
                 "pages": [104],
                 "status": "locked",
                 "notes": "",
@@ -1674,7 +1674,7 @@
         {
             "data": {
                 "id": "85",
-                "name": "#85 Sun Temple",
+                "name": "#85 Chrám slunce",
                 "pages": [107, 108],
                 "status": "locked",
                 "notes": "",
@@ -1688,7 +1688,7 @@
         {
             "data": {
                 "id": "90",
-                "name": "#90 Demonic Rift",
+                "name": "#90 Brána démonů",
                 "pages": [113],
                 "status": "locked",
                 "notes": "",
